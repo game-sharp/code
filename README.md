@@ -42,6 +42,6 @@
 
 ## 说明
 > 本项目是GAME#的官方网站。欢迎大家点击查看。感谢GitHub给予的GitHub Pages！  
-官方网站地址：[GAME#官方网站](https://game-sharp.github.io/)
+官方网站地址：[GAME#官方编程学习网站](https://game-sharp.github.io/code/)
 ***  
 [回到顶部](#readme)
